@@ -1,4 +1,4 @@
 # tst
 js excel show
 
-I included a excel file so you can test the program.
+I included an excel file so you can test the program.
